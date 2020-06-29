@@ -1,4 +1,4 @@
-# 🔔 Notified tasks
+# ![demo](./img/icon_50.jpg) Notified tasks
 
 A shell script to get notification when a task is done (for macOS)
 
