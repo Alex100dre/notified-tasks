@@ -2,6 +2,8 @@
 
 A shell script to get notification when a task is done (for macOS)
 
+![demo](./img/demo.gif)
+
 ## How to use it 
 
 - Clone this repo somewhere on your computer (I stored it in `~/Scripts`)
